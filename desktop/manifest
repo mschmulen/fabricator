@@ -1,0 +1,23 @@
+#appname: fabricatorDesktop
+#publisher: mattschmulen
+#url: http://www.appc.com
+#image: default_app_logo.png
+#appid: com.appc.fabricatorDesktop
+#desc: undefined
+#type: desktop
+#guid: c05c2798-4105-4a8d-9ddd-a081a0f33d63
+runtime:1.2.0.RC1
+tiapp:1.2.0.RC1
+tifilesystem:1.2.0.RC1
+tiplatform:1.2.0.RC1
+tiui:1.2.0.RC1
+ruby:1.2.0.RC1
+python:1.2.0.RC1
+php:1.2.0.RC1
+ticodec:1.2.0.RC1
+tidatabase:1.2.0.RC1
+timedia:1.2.0.RC1
+timonkey:1.2.0.RC1
+tinetwork:1.2.0.RC1
+tiprocess:1.2.0.RC1
+tiworker:1.2.0.RC1
